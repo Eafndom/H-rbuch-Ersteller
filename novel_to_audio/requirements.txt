@@ -1,0 +1,11 @@
+PyQt6
+ebooklib
+pypdf
+python-docx
+beautifulsoup4
+openai
+edge-tts
+pydub
+pedalboard
+scipy
+markdown
